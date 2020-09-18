@@ -1,4 +1,4 @@
-# karen-vue
+# karen
 
 > A Vue.js project
 
