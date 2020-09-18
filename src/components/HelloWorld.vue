@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h1>⬇</h1>
   </div>
 </template>
 
@@ -9,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'hi！Rich将会在这里筹划一些有趣的事情'
+      msg: 'hi！这里将会发生一些有趣的事情'
     }
   }
 }
