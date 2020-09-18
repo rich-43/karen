@@ -9,7 +9,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '洪铭的私人vue'
+      msg: 'hi！Rich将会在这里筹划一些有趣的事情'
     }
   }
 }
