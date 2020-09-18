@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'hi！这里将会发生一些有趣的事情'
+      msg: 'hi！有趣的事即将发生~'
     }
   }
 }
